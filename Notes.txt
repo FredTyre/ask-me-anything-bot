@@ -1,0 +1,1 @@
+Adding scopes to the slack bot means reinstall the bot to workspace
